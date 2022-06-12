@@ -1,0 +1,1 @@
+This python script uses the Google Sheets API to create pixel art on a Google Sheet by colouring in each cell as a pixel. The photo being converted into pixel art is labelled as photo.jpg.
